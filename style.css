@@ -1,0 +1,294 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+table{
+    width: 100%;
+    height: 98vh;
+    border-collapse: collapse;
+}
+
+.logo img{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+
+}
+
+.cor-header{
+    background-color: white;
+    height: 10vh;
+}
+
+.inicio{
+    background-color: #0A0B1F;
+    height: 300px;
+    width: 190px;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    font-size: 40px;
+    font-weight: 500    ;
+}
+
+.texto-inicio { padding-top: 137px;}
+
+td{
+    width: 9.09%;
+}
+
+#verde{
+    color: #01FF38;
+}
+
+.btn{
+    margin-bottom: 170px;
+    border-radius: 20px;
+    width: 150px;
+    height: 45px;
+}
+
+.img2{
+    width: 100%;
+    height: ;
+    border-radius: 25px 25px 25px ;
+}
+
+.txt-historia{
+    align-items: center;
+    padding: 40px;
+   font-size: 30px;
+   margin-top: 50px;
+    font-family: "Raleway", sans-serif;
+}
+
+#vazia{
+    height: 10px;
+}
+
+.text-about{
+    vertical-align: text-top;
+}
+#linha1{
+    height: 10px;
+}
+#linha2{
+    height: 10vh;
+}
+
+#linha4{
+    height: 30vh;
+}
+
+.container-image{
+    vertical-align: middle;
+}
+
+#linha5{
+    height: 10px;
+}
+
+.table-c{
+    height: 60vh;
+}
+
+.desc{
+    font-size: 25px;
+    font-family: "Raleway", sans-serif;
+}
+
+.coluna-vazia{
+    width: 6%;
+}
+
+.servicos{
+    background-color: #0A0B1F;
+}
+
+.txt-servicos{
+    color: white;
+    font-family: "Raleway",sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+.espacamento-vazio{
+    width: 5%;
+}
+
+.servicos td{
+    width: fit-content;
+}
+
+#vazio-servicos{
+    height: 20%;
+}
+
+.coteudo-servicos{
+    width: 1000px;
+}
+
+.box1{
+    width: 440px;
+    height: 341px;
+    background-color: white;
+    padding-top: 30px;
+    border-radius: 30px;
+}
+
+.txtbox1{
+    font-family: "Raleway",sans-serif;
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+.box2{
+    width: 440px;
+    height: 341px;
+    background-color: white;
+    padding-top: 30px;
+    border-radius: 30px;
+}
+
+.txtbox2{
+    font-family: "Raleway",sans-serif;
+    font-size: 30px;
+    text-align: center;
+    
+}
+.centro{
+    margin: 0 auto;
+}
+
+.box3{
+
+    width: 440px;
+    height: 341px;
+    background-color: white;
+    padding-top: 30px;
+    border-radius: 30px;
+}
+
+.desc{
+    font-family: "Raleway",sans-serif;
+    color: black;
+    text-align: center;
+}
+.txtbox3{
+    font-family: "Raleway",sans-serif;
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+.btn1{
+    margin-bottom: 70px;
+    margin-left: 145px;
+    border-radius: 20px;
+    width: 200px;
+    height: 60px;
+}
+
+.txt-contato{
+    text-align: center;
+    color: white;
+    font-family: "Raleway", sans-serif;
+
+}
+
+#contato-txt{
+        width: 100px;
+        height: 250px;
+}
+
+.contato{
+    border: solid 2px white; 
+
+    background-color: #0A0B1F;
+
+    padding-bottom: 400px   ;
+}
+
+.box-contato{
+    width: 670px;
+    height: 800px;
+    background-color: white;
+    margin-left: 120px;
+    border-radius: 40px;
+}
+
+.name{
+    font-family: "Raleway", sans-serif;
+    font-size: 25px;
+    padding-top: 50px;
+    margin-left: 50px;
+}
+
+.email{
+    font-family: "Raleway", sans-serif;
+    font-size: 25px;
+    padding-top: 50px;
+    margin-left: 50px;
+}
+
+.imput-nome{
+    margin-left: 53px;
+    height: 45px;
+    width: 270px;
+}
+
+.imput-email{
+    margin-left: 53px;
+    height: 45px;
+    width: 270px;
+}
+
+.telefone{
+    font-family: "Raleway", sans-serif;
+    font-size: 25px;
+    padding-top: 50px;
+    margin-left: 50px;
+}
+
+.imput-telefone{
+    margin-left: 53px;
+    height: 45px;
+    width: 270px;
+}
+
+.mensagem{
+    font-family: "Raleway", sans-serif;
+    font-size: 25px;
+    padding-top: 50px;
+    margin-left: 50px;
+}
+
+.imput-mensagem{
+    margin-left: 53px;
+    height: 60px;
+    width: 270px;
+}
+
+.btn3{
+    border: none;
+    color: white;
+    background-color: #50BF3A;
+   margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 20px;
+    width: 200px;
+    height: 60px;
+}
+
+.espaco{
+
+}
+
+.rodape{
+    align-items: center;
+    width: 5px;
+    height: 3px;
+}
+
+.img-rodape{
+    width: 300px;
+}
+
